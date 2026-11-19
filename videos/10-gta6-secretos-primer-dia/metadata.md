@@ -24,7 +24,7 @@ Información verificada a 19 de noviembre de 2026. Si algo cambia, lo actualizo 
 · Kotaku – directo del lanzamiento: https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030
 · GameSpot – el easter egg de los huevos: https://www.gamespot.com/articles/gta-6-has-a-hilarious-riff-on-easter-eggs/
 
-🔔 Suscríbete a MODO LEONIDA: guías, trucos y secretos de GTA 6 cada día.
+🔔 Suscríbete a DON PALMERA: guías, trucos y secretos de GTA 6 cada día.
 
 Canal de fans no afiliado a Rockstar Games ni a Take-Two Interactive. Grand Theft Auto, GTA y sus logotipos son marcas de sus respectivos propietarios. Gráficos, mapa ilustrativo y música originales del canal. Voz sintética.
 

@@ -30,7 +30,7 @@ Información verificada a 19 de noviembre de 2026. Si algo cambia, lo actualizo 
 · Outputlag – dinero al principio: https://outputlag.com/guides/gta-6-make-money-fast/
 · Game8 – guía de inicio (banco): https://game8.co/games/GTA-6/archives/637017
 
-🔔 Suscríbete a MODO LEONIDA: guías, trucos y secretos de GTA 6 cada día.
+🔔 Suscríbete a DON PALMERA: guías, trucos y secretos de GTA 6 cada día.
 
 Canal de fans no afiliado a Rockstar Games ni a Take-Two Interactive. Grand Theft Auto, GTA y sus logotipos son marcas de sus respectivos propietarios. Gráficos, mapa ilustrativo y música originales del canal. Voz sintética.
 

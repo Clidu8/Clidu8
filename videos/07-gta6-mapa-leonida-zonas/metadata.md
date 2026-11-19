@@ -27,7 +27,7 @@ Información verificada a 19 de noviembre de 2026. Si algo cambia, lo actualizo 
 · Allthings.how – tamaño del mapa: https://allthings.how/gta-6-map-size-how-vice-city-and-leonida-compare-to-los-santos/
 · GTA Boss – localizaciones confirmadas: https://www.gtaboss.gg/gta-6/guides/gta-6-map
 
-🔔 Suscríbete a MODO LEONIDA: guías, trucos y secretos de GTA 6 cada día.
+🔔 Suscríbete a DON PALMERA: guías, trucos y secretos de GTA 6 cada día.
 
 Canal de fans no afiliado a Rockstar Games ni a Take-Two Interactive. Grand Theft Auto, GTA y sus logotipos son marcas de sus respectivos propietarios. Gráficos, mapa ilustrativo y música originales del canal. Voz sintética.
 

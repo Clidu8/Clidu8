@@ -26,7 +26,7 @@ Información verificada a 19 de noviembre de 2026. Si algo cambia, lo actualizo 
 · HollywoodLife – cuándo llega a PC: https://hollywoodlife.com/2026/11/18/when-will-gta-6-come-to-pc/
 · Rockstar Store – plataformas: https://store.rockstargames.com/game/buy-gta-vi
 
-🔔 Suscríbete a MODO LEONIDA: guías, trucos y secretos de GTA 6 cada día.
+🔔 Suscríbete a DON PALMERA: guías, trucos y secretos de GTA 6 cada día.
 
 Canal de fans no afiliado a Rockstar Games ni a Take-Two Interactive. Grand Theft Auto, GTA y sus logotipos son marcas de sus respectivos propietarios. Gráficos, mapa ilustrativo y música originales del canal. Voz sintética.
 
