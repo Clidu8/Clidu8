@@ -1,0 +1,4 @@
+pipeline/.tts_cache/
+__pycache__/
+*.pyc
+videos/*/_audio.wav
