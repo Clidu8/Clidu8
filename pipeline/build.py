@@ -102,28 +102,76 @@ def thumb(vi):
     print("thumb", out)
 
 # ------------------------------------------------------------------ canal
+def palmera_gafas(size, P):
+    """Mascota: Don Palmera, palmera con cabeza, gafas de sol y bigote."""
+    import math
+    S = 1000
+    im = Image.new("RGBA", (S, S), (20, 6, 48, 255))
+    # cielo degradado + sol
+    arr = np.zeros((S, S, 4), np.uint8); y = np.linspace(0, 1, S)[:, None]
+    top, bot = np.array((30, 8, 70)), np.array((255, 70, 140))
+    for k in range(3): arr[..., k] = (top[k] + (bot[k] - top[k]) * y ** 1.4).astype(np.uint8)
+    arr[..., 3] = 255
+    im = Image.fromarray(arr, "RGBA")
+    sun = Image.new("RGBA", (S, S), (0, 0, 0, 0)); sd = ImageDraw.Draw(sun)
+    sd.ellipse((180, 330, 820, 970), fill=(255, 200, 70, 255))
+    for k in range(6):
+        y0 = 700 + k * 45; sd.rectangle((0, y0, S, y0 + 8 + k * 4), fill=(0, 0, 0, 0))
+    im.alpha_composite(sun.filter(ImageFilter.GaussianBlur(1)))
+    d = ImageDraw.Draw(im)
+    dark = (12, 4, 22, 255)
+    # tronco grueso y curvo
+    pts = [(500 + 60 * math.sin(t * 2.2) * (1 - t), 1000 - 560 * t) for t in np.linspace(0, 1, 40)]
+    for i in range(len(pts) - 1):
+        d.line([pts[i], pts[i + 1]], fill=dark, width=int(130 - 50 * i / 39))
+    for i in range(3, 39, 4):  # anillos del tronco
+        x, yv = pts[i]; w = (130 - 50 * i / 39) / 2
+        d.line([(x - w, yv), (x + w, yv - 6)], fill=P["a1"] + (120,), width=4)
+    hx, hy = 500, 400
+    # hojas
+    for k in range(9):
+        ang = math.radians(-180 + k * 22.5)
+        L = 360
+        poly = []
+        for j in range(20):
+            t = j / 19
+            poly.append((hx + math.cos(ang) * L * t, hy - 40 + math.sin(ang) * L * t * 0.75 + 140 * t * t))
+        for j in range(len(poly) - 1):
+            d.line([poly[j], poly[j + 1]], fill=dark, width=int(70 - 62 * j / 19))
+    # cabeza
+    d.ellipse((hx - 150, hy - 120, hx + 150, hy + 150), fill=dark)
+    # gafas
+    for dx in (-72, 72):
+        d.rounded_rectangle((hx + dx - 68, hy - 40, hx + dx + 68, hy + 45), 34, fill=(5, 5, 12, 255), outline=P["a1"] + (255,), width=14)
+        d.line((hx + dx - 40, hy - 15, hx + dx - 5, hy - 15), fill=(255, 255, 255, 230), width=12)
+    d.rectangle((hx - 10, hy - 18, hx + 10, hy + 2), fill=P["a1"] + (255,))
+    # bigote
+    d.chord((hx - 95, hy + 20, hx + 95, hy + 110), 0, 180, fill=P["a2"] + (255,))
+    d.chord((hx - 95, hy + 20, hx + 95, hy + 110), 0, 180, outline=(0, 0, 0, 255), width=4)
+    return im.resize((size, size), Image.LANCZOS)
+
 def canal():
     d = os.path.join(ROOT, "canal"); os.makedirs(d, exist_ok=True)
     P = R.PALETTES["sunset"]
     bg = R.Background("sunset", 42)
-    # banner 2560x1440 (zona segura central 1546x423)
     im = bg.get(3, 1.0, dim=False).resize((2560, 1440), Image.LANCZOS)
-    t = R.text_img("MODO LEONIDA", R.F_BI, 190, fill=(255, 255, 255), glow=P["a1"], glow_r=30, stroke=5, stroke_fill=(0, 0, 0))
-    if t.width > 1500: t = t.resize((1500, int(t.height * 1500 / t.width)), Image.LANCZOS)
-    im.alpha_composite(t, (1280 - t.width // 2, 640 - t.height // 2 - 10))
-    s = R.text_img("GUÍAS · TRUCOS · SECRETOS DE GTA 6 · CADA DÍA", R.F_BLACK, 52, fill=R.MID, stroke=4, stroke_fill=(0, 0, 0))
-    im.alpha_composite(s, (1280 - s.width // 2, 790 - s.height // 2))
+    t = R.text_img("DON PALMERA", R.F_BI, 200, fill=(255, 255, 255), glow=P["a1"], glow_r=30, stroke=5, stroke_fill=(0, 0, 0))
+    if t.width > 1300: t = t.resize((1300, int(t.height * 1300 / t.width)), Image.LANCZOS)
+    m = palmera_gafas(330, P)
+    mask = Image.new("L", (330, 330), 0); ImageDraw.Draw(mask).ellipse((0, 0, 329, 329), fill=255)
+    tw = 330 + 30 + t.width; x0 = 1280 - tw // 2
+    ring = Image.new("RGBA", (346, 346), (0, 0, 0, 0)); ImageDraw.Draw(ring).ellipse((0, 0, 345, 345), fill=P["a2"] + (255,))
+    im.alpha_composite(ring, (x0 - 8, 640 - 173))
+    im.paste(m, (x0, 640 - 165), mask)
+    im.alpha_composite(t, (x0 + 360, 625 - t.height // 2))
+    s = R.text_img("GTA 6 EN ESPAÑOL · GUÍAS · TRUCOS · SECRETOS", R.F_BLACK, 52, fill=R.MID, stroke=4, stroke_fill=(0, 0, 0))
+    im.alpha_composite(s, (1280 - s.width // 2, 860 - s.height // 2))
     im.convert("RGB").save(os.path.join(d, "banner_2560x1440.jpg"), quality=92)
-    # avatar 800x800
-    av = bg.get(5, 1.6, dim=False).crop((560, 140, 1360, 940)).convert("RGBA")
-    dk = Image.new("RGBA", av.size, (0, 0, 0, 90)); av.alpha_composite(dk)
-    t = R.text_img("ML", R.F_BI, 400, fill=(255, 255, 255), glow=P["a1"], glow_r=30, stroke=8, stroke_fill=(0, 0, 0))
-    av.alpha_composite(t, (400 - t.width // 2, 400 - t.height // 2))
+    av = palmera_gafas(800, P)
     av.convert("RGB").save(os.path.join(d, "avatar_800x800.jpg"), quality=92)
-    # marca de agua 150x150
     wm = Image.new("RGBA", (150, 150), (0, 0, 0, 0)); wd = ImageDraw.Draw(wm)
     wd.ellipse((4, 4, 146, 146), fill=(230, 20, 30, 255), outline=(255, 255, 255, 255), width=5)
-    t = R.text_img("ML", R.F_BI, 70, fill=(255, 255, 255), shadow=False)
+    t = R.text_img("DP", R.F_BI, 70, fill=(255, 255, 255), shadow=False)
     wm.alpha_composite(t, (75 - t.width // 2, 72 - t.height // 2))
     wm.save(os.path.join(d, "marca_agua_150x150.png"))
     print("canal ok")

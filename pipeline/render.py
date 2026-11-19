@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageChops
 
 W, H, FPS = 1920, 1080, 30
 BW, BH = 2112, 1188  # fondo un 10% mayor para el zoom de cámara
-CANAL = "MODO LEONIDA"
+CANAL = "DON PALMERA"
 FD = "/usr/share/fonts/opentype/inter/"
 F_BLACK = FD + "InterDisplay-Black.otf"
 F_XB = FD + "InterDisplay-ExtraBold.otf"

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Guiones de los 10 vídeos del canal MODO LEONIDA.
+"""Guiones de los 10 vídeos del canal DON PALMERA.
 
 Cada escena: (tipo, datos_visuales, narración).
 La narración se escribe "como suena" para el sintetizador (p. ej. "Vais Siti"),
