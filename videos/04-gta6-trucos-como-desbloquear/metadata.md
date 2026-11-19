@@ -30,7 +30,7 @@ Información verificada a 19 de noviembre de 2026. Si algo cambia, lo actualizo 
 · Power Up Gaming – inconvenientes: https://powerupgaming.co.uk/2026/11/18/gta-6-all-cheats-how-to-unlock-them-and-the-drawbacks-of-using-them/
 · Red Bull – 61 trucos: https://www.redbull.com/int-en/gta-6-cheat-codes
 
-🔔 Suscríbete a MODO LEONIDA: guías, trucos y secretos de GTA 6 cada día.
+🔔 Suscríbete a DON PALMERA: guías, trucos y secretos de GTA 6 cada día.
 
 Canal de fans no afiliado a Rockstar Games ni a Take-Two Interactive. Grand Theft Auto, GTA y sus logotipos son marcas de sus respectivos propietarios. Gráficos, mapa ilustrativo y música originales del canal. Voz sintética.
 

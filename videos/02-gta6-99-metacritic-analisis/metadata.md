@@ -33,7 +33,7 @@ Información verificada a 19 de noviembre de 2026. Si algo cambia, lo actualizo 
 · The National – lo que gusta y lo que no: https://www.thenationalnews.com/arts-culture/pop-culture/2026/11/18/gta-6-reviews-metacritic/
 · Notebookcheck – comparativa con GTA IV/V: https://www.notebookcheck.net/GTA-6-reviews-award-99-Metacritic-score-topping-GTA-4-to-become-Rockstar-s-top-rated.1453363.0.html
 
-🔔 Suscríbete a MODO LEONIDA: guías, trucos y secretos de GTA 6 cada día.
+🔔 Suscríbete a DON PALMERA: guías, trucos y secretos de GTA 6 cada día.
 
 Canal de fans no afiliado a Rockstar Games ni a Take-Two Interactive. Grand Theft Auto, GTA y sus logotipos son marcas de sus respectivos propietarios. Gráficos, mapa ilustrativo y música originales del canal. Voz sintética.
 

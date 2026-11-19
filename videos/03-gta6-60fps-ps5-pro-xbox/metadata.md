@@ -29,7 +29,7 @@ Información verificada a 19 de noviembre de 2026. Si algo cambia, lo actualizo 
 · VGC – PS5 Pro y 60 FPS: https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/
 · TechPowerUp – Series S: https://www.techpowerup.com/355004/gta-6-reportedly-plays-best-on-ps5-pro-xbox-series-s-struggles
 
-🔔 Suscríbete a MODO LEONIDA: guías, trucos y secretos de GTA 6 cada día.
+🔔 Suscríbete a DON PALMERA: guías, trucos y secretos de GTA 6 cada día.
 
 Canal de fans no afiliado a Rockstar Games ni a Take-Two Interactive. Grand Theft Auto, GTA y sus logotipos son marcas de sus respectivos propietarios. Gráficos, mapa ilustrativo y música originales del canal. Voz sintética.
 
