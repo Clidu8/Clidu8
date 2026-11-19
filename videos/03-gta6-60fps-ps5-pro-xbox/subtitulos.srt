@@ -1,0 +1,296 @@
+1
+00:00:00,350 --> 00:00:01,644
+¿Se puede jugar a GTA
+
+2
+00:00:01,644 --> 00:00:03,387
+seis a sesenta fotogramas por
+
+3
+00:00:03,387 --> 00:00:05,030
+segundo? Respuesta corta:
+
+4
+00:00:05,030 --> 00:00:06,722
+no. En ninguna consola.
+
+5
+00:00:06,722 --> 00:00:08,465
+Pero sí hay diferencias entre
+
+6
+00:00:08,465 --> 00:00:09,859
+PS5, PS5 Pro y Xbox,
+
+7
+00:00:09,859 --> 00:00:11,452
+y te las explico ahora.
+
+8
+00:00:12,352 --> 00:00:13,568
+El juego va a treinta
+
+9
+00:00:13,568 --> 00:00:15,234
+fotogramas por segundo en todas
+
+10
+00:00:15,234 --> 00:00:16,090
+las consolas.
+
+11
+00:00:16,090 --> 00:00:17,486
+No hay modo rendimiento a
+
+12
+00:00:17,486 --> 00:00:19,062
+sesenta. Y esto incluye la
+
+13
+00:00:19,062 --> 00:00:19,603
+PS5 Pro,
+
+14
+00:00:19,603 --> 00:00:20,639
+que es lo que más
+
+15
+00:00:20,639 --> 00:00:21,449
+ha escocido.
+
+16
+00:00:22,349 --> 00:00:22,968
+¿Por qué?
+
+17
+00:00:22,968 --> 00:00:24,428
+Rockstar lo ha explicado.
+
+18
+00:00:24,428 --> 00:00:26,418
+Su director de producción tecnológica,
+
+19
+00:00:26,418 --> 00:00:27,214
+Marc Chambers,
+
+20
+00:00:27,214 --> 00:00:28,363
+le dijo a Kotaku que
+
+21
+00:00:28,363 --> 00:00:29,646
+el procesador de la PS5
+
+22
+00:00:29,646 --> 00:00:30,840
+Pro no es lo bastante
+
+23
+00:00:30,840 --> 00:00:32,520
+potente para mover la simulación
+
+24
+00:00:32,520 --> 00:00:34,112
+del juego a más fotogramas.
+
+25
+00:00:34,112 --> 00:00:35,262
+El problema no es la
+
+26
+00:00:35,262 --> 00:00:36,500
+gráfica, es la CPU.
+
+27
+00:00:36,500 --> 00:00:37,429
+Y la Pro usa su
+
+28
+00:00:37,429 --> 00:00:38,977
+potencia extra en sombras con
+
+29
+00:00:38,977 --> 00:00:40,171
+trazado de rayos y en
+
+30
+00:00:40,171 --> 00:00:41,321
+el reescalado PSSR.
+
+31
+00:00:42,221 --> 00:00:43,823
+Según Digital Foundry,
+
+32
+00:00:43,823 --> 00:00:45,484
+PS5, PS5 Pro y Series
+
+33
+00:00:45,484 --> 00:00:47,205
+X renderizan a 1440p.
+
+34
+00:00:47,205 --> 00:00:48,926
+La diferencia es que la
+
+35
+00:00:48,926 --> 00:00:50,943
+Pro reconstruye esa imagen a
+
+36
+00:00:50,943 --> 00:00:52,604
+algo parecido a 4K con
+
+37
+00:00:52,604 --> 00:00:54,266
+PSSR. Así que se ve
+
+38
+00:00:54,266 --> 00:00:55,274
+más nítida.
+
+39
+00:00:56,174 --> 00:00:57,047
+En estabilidad,
+
+40
+00:00:57,047 --> 00:00:58,562
+la Pro mantiene los treinta
+
+41
+00:00:58,562 --> 00:01:00,169
+fotogramas pase lo que pase,
+
+42
+00:01:00,169 --> 00:01:01,362
+según los análisis.
+
+43
+00:01:01,362 --> 00:01:02,694
+La PS5 normal tiene más
+
+44
+00:01:02,694 --> 00:01:04,484
+caídas, incluso jugando de forma
+
+45
+00:01:04,484 --> 00:01:05,999
+normal. Y la Xbox Series
+
+46
+00:01:05,999 --> 00:01:07,468
+S, según varios informes,
+
+47
+00:01:07,468 --> 00:01:08,800
+es la que más sufre.
+
+48
+00:01:08,800 --> 00:01:10,636
+Ojo, esta escala es orientativa,
+
+49
+00:01:10,636 --> 00:01:11,922
+no una medición mía.
+
+50
+00:01:12,822 --> 00:01:14,124
+Entonces, ¿qué hago?
+
+51
+00:01:14,124 --> 00:01:15,283
+Si tienes PS5 Pro,
+
+52
+00:01:15,283 --> 00:01:16,827
+tienes la mejor versión de
+
+53
+00:01:16,827 --> 00:01:18,419
+consola. Si tienes PS5 o
+
+54
+00:01:18,419 --> 00:01:19,046
+Series X,
+
+55
+00:01:19,046 --> 00:01:19,626
+va bien,
+
+56
+00:01:19,626 --> 00:01:21,218
+con alguna caída puntual.
+
+57
+00:01:21,218 --> 00:01:22,569
+Y si tienes Series S,
+
+58
+00:01:22,569 --> 00:01:24,644
+juega, pero espera menos nitidez.
+
+59
+00:01:25,544 --> 00:01:26,689
+¿Y llegará un parche a
+
+60
+00:01:26,689 --> 00:01:28,469
+sesenta? Rockstar no ha anunciado
+
+61
+00:01:28,469 --> 00:01:29,825
+nada. Los rumores de un
+
+62
+00:01:29,825 --> 00:01:31,182
+modo exclusivo para la Pro
+
+63
+00:01:31,182 --> 00:01:31,733
+eran eso,
+
+64
+00:01:31,733 --> 00:01:32,581
+rumores. Hoy,
+
+65
+00:01:32,581 --> 00:01:33,852
+la vía más realista para
+
+66
+00:01:33,852 --> 00:01:34,997
+jugar a sesenta es la
+
+67
+00:01:34,997 --> 00:01:36,141
+futura versión de PC,
+
+68
+00:01:36,141 --> 00:01:37,498
+que aún no tiene fecha.
+
+69
+00:01:38,398 --> 00:01:39,690
+¿En qué consola lo estás
+
+70
+00:01:39,690 --> 00:01:41,429
+jugando, y notas los treinta?
+
+71
+00:01:41,429 --> 00:01:42,365
+Cuéntamelo abajo,
+
+72
+00:01:42,365 --> 00:01:43,925
+y suscríbete si quieres saber
+
+73
+00:01:43,925 --> 00:01:45,396
+en cuanto haya noticias del
+
+74
+00:01:45,396 --> 00:01:45,753
+PC.
+

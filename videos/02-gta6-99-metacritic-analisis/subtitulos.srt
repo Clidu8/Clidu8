@@ -1,0 +1,420 @@
+1
+00:00:00,350 --> 00:00:01,507
+Un noventa y nueve.
+
+2
+00:00:01,507 --> 00:00:02,792
+GTA seis ha empatado con
+
+3
+00:00:02,792 --> 00:00:03,906
+la nota más alta que
+
+4
+00:00:03,906 --> 00:00:05,577
+ha tenido nunca un videojuego.
+
+5
+00:00:05,577 --> 00:00:07,205
+Pero los análisis también tienen
+
+6
+00:00:07,205 --> 00:00:08,362
+pegas, y hay una que
+
+7
+00:00:08,362 --> 00:00:09,776
+se repite en casi todos.
+
+8
+00:00:09,776 --> 00:00:10,847
+Vamos con lo bueno,
+
+9
+00:00:10,847 --> 00:00:11,789
+lo malo y lo que
+
+10
+00:00:11,789 --> 00:00:12,775
+nadie te cuenta.
+
+11
+00:00:13,675 --> 00:00:14,938
+Primero, el contexto.
+
+12
+00:00:14,938 --> 00:00:16,506
+En Metacritic tiene un noventa
+
+13
+00:00:16,506 --> 00:00:17,028
+y nueve,
+
+14
+00:00:17,028 --> 00:00:18,378
+igual que Ocarina of Time
+
+15
+00:00:18,378 --> 00:00:19,859
+de mil novecientos noventa y
+
+16
+00:00:19,859 --> 00:00:21,427
+ocho. Supera a GTA cuatro,
+
+17
+00:00:21,427 --> 00:00:22,603
+que tuvo un noventa y
+
+18
+00:00:22,603 --> 00:00:23,735
+ocho, y a GTA cinco
+
+19
+00:00:23,735 --> 00:00:25,172
+y Red Dead Redemption dos,
+
+20
+00:00:25,172 --> 00:00:26,566
+que se quedaron en noventa
+
+21
+00:00:26,566 --> 00:00:27,176
+y siete.
+
+22
+00:00:27,176 --> 00:00:27,960
+En OpenCritic,
+
+23
+00:00:27,960 --> 00:00:29,353
+también noventa y nueve.
+
+24
+00:00:30,253 --> 00:00:31,708
+Y un dato que impresiona:
+
+25
+00:00:31,708 --> 00:00:33,480
+según los recuentos del dieciocho
+
+26
+00:00:33,480 --> 00:00:34,253
+de noviembre,
+
+27
+00:00:34,253 --> 00:00:35,753
+con entre ciento cuarenta y
+
+28
+00:00:35,753 --> 00:00:37,707
+ciento cincuenta análisis publicados,
+
+29
+00:00:37,707 --> 00:00:38,934
+no había ni uno mixto
+
+30
+00:00:38,934 --> 00:00:39,752
+ni negativo.
+
+31
+00:00:39,752 --> 00:00:40,207
+Cero.
+
+32
+00:00:41,107 --> 00:00:41,748
+Lo bueno.
+
+33
+00:00:41,748 --> 00:00:42,858
+Lo que más se repite
+
+34
+00:00:42,858 --> 00:00:43,670
+es el mundo.
+
+35
+00:00:43,670 --> 00:00:45,464
+Leonida. Los análisis destacan la
+
+36
+00:00:45,464 --> 00:00:47,173
+densidad, cómo reacciona la gente
+
+37
+00:00:47,173 --> 00:00:48,070
+a lo que haces,
+
+38
+00:00:48,070 --> 00:00:49,479
+los eventos aleatorios y la
+
+39
+00:00:49,479 --> 00:00:50,889
+cantidad de cosas que hacer
+
+40
+00:00:50,889 --> 00:00:52,128
+fuera de la historia.
+
+41
+00:00:52,128 --> 00:00:53,495
+En The Guardian llegaron a
+
+42
+00:00:53,495 --> 00:00:54,819
+decir que es tan realista
+
+43
+00:00:54,819 --> 00:00:55,930
+que cuesta creerlo.
+
+44
+00:00:56,830 --> 00:00:57,507
+Lo segundo:
+
+45
+00:00:57,507 --> 00:00:58,590
+los protagonistas.
+
+46
+00:00:58,590 --> 00:00:59,538
+Jason y Lucía.
+
+47
+00:00:59,538 --> 00:01:01,027
+La relación entre los dos,
+
+48
+00:01:01,027 --> 00:01:02,156
+las interpretaciones,
+
+49
+00:01:02,156 --> 00:01:03,555
+y cómo las decisiones del
+
+50
+00:01:03,555 --> 00:01:04,683
+día a día afectan a
+
+51
+00:01:04,683 --> 00:01:05,450
+su vínculo.
+
+52
+00:01:05,450 --> 00:01:06,308
+Jason Schreier,
+
+53
+00:01:06,308 --> 00:01:07,075
+en Bloomberg,
+
+54
+00:01:07,075 --> 00:01:08,429
+le dio cinco estrellas y
+
+55
+00:01:08,429 --> 00:01:09,783
+lo llamó obra maestra.
+
+56
+00:01:10,683 --> 00:01:11,753
+Y ahora lo malo.
+
+57
+00:01:11,753 --> 00:01:13,091
+La crítica más repetida,
+
+58
+00:01:13,091 --> 00:01:13,938
+con diferencia,
+
+59
+00:01:13,938 --> 00:01:15,052
+es el rendimiento.
+
+60
+00:01:15,052 --> 00:01:16,256
+El juego va a treinta
+
+61
+00:01:16,256 --> 00:01:17,905
+fotogramas por segundo en todas
+
+62
+00:01:17,905 --> 00:01:18,663
+las consolas,
+
+63
+00:01:18,663 --> 00:01:20,000
+sin opción de sesenta.
+
+64
+00:01:20,000 --> 00:01:20,981
+Ni en PS5 Pro.
+
+65
+00:01:20,981 --> 00:01:22,185
+Hay quien dice que no
+
+66
+00:01:22,185 --> 00:01:22,854
+le molesta,
+
+67
+00:01:22,854 --> 00:01:24,637
+y quien lo llama decepcionante.
+
+68
+00:01:25,537 --> 00:01:26,288
+Segunda pega:
+
+69
+00:01:26,288 --> 00:01:26,951
+el ritmo.
+
+70
+00:01:26,951 --> 00:01:28,542
+Algunos análisis dicen que las
+
+71
+00:01:28,542 --> 00:01:29,956
+primeras horas son lentas,
+
+72
+00:01:29,956 --> 00:01:31,502
+que hay tiempos muertos entre
+
+73
+00:01:31,502 --> 00:01:32,960
+trabajos, y que la segunda
+
+74
+00:01:32,960 --> 00:01:34,419
+mitad de la historia pierde
+
+75
+00:01:34,419 --> 00:01:35,965
+fuerza. Y la queja clásica
+
+76
+00:01:35,965 --> 00:01:36,672
+de Rockstar:
+
+77
+00:01:36,672 --> 00:01:37,821
+misiones muy guiadas,
+
+78
+00:01:37,821 --> 00:01:38,661
+sobre raíles.
+
+79
+00:01:39,561 --> 00:01:40,376
+Y la tercera,
+
+80
+00:01:40,376 --> 00:01:41,734
+más de gusto personal.
+
+81
+00:01:41,734 --> 00:01:43,093
+El New York Times apunta
+
+82
+00:01:43,093 --> 00:01:44,588
+que tanto realismo le quita
+
+83
+00:01:44,588 --> 00:01:45,992
+algo de la locura caótica
+
+84
+00:01:45,992 --> 00:01:47,350
+de los GTA anteriores.
+
+85
+00:01:47,350 --> 00:01:48,618
+Y varios avisan de que
+
+86
+00:01:48,618 --> 00:01:50,113
+hay curva de aprendizaje si
+
+87
+00:01:50,113 --> 00:01:51,789
+vienes directo de GTA cinco.
+
+88
+00:01:52,689 --> 00:01:53,545
+Mi conclusión.
+
+89
+00:01:53,545 --> 00:01:54,615
+Si lo que buscas es
+
+90
+00:01:54,615 --> 00:01:55,771
+un mundo enorme y una
+
+91
+00:01:55,771 --> 00:01:56,585
+buena historia,
+
+92
+00:01:56,585 --> 00:01:57,740
+es justo lo que dicen
+
+93
+00:01:57,740 --> 00:01:58,554
+los análisis.
+
+94
+00:01:58,554 --> 00:01:59,667
+La pega real son los
+
+95
+00:01:59,667 --> 00:02:00,737
+treinta fotogramas.
+
+96
+00:02:00,737 --> 00:02:01,679
+Y si eres de los
+
+97
+00:02:01,679 --> 00:02:03,178
+que se aburren al principio,
+
+98
+00:02:03,178 --> 00:02:04,462
+dale unas horas antes de
+
+99
+00:02:04,462 --> 00:02:05,061
+juzgarlo.
+
+100
+00:02:05,961 --> 00:02:06,346
+Y tú,
+
+101
+00:02:06,346 --> 00:02:07,585
+¿qué nota le das después
+
+102
+00:02:07,585 --> 00:02:08,867
+de las primeras horas?
+
+103
+00:02:08,867 --> 00:02:10,106
+Déjamela en comentarios,
+
+104
+00:02:10,106 --> 00:02:11,601
+y suscríbete para no perderte
+
+105
+00:02:11,601 --> 00:02:12,285
+las guías.
+
