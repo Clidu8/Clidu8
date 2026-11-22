@@ -1,0 +1,14 @@
+{"dir": "/tmp/claude-0/-home-user-Clidu8/f0ac2340-d6b1-5997-9552-f2a1bb62a07d/scratchpad/boeshi", "src": "src.mp4", "overlay": "overlay.png", "out": "/tmp/claude-0/-home-user-Clidu8/f0ac2340-d6b1-5997-9552-f2a1bb62a07d/scratchpad/boeshi/out/boeshi_01.mp4",
+ "segments": [[0.5, 12.6], [16.4, 27.1]],
+ "cam": [20, 180, 360, 402], "game": [545, 30, 1380, 970], "cam_h": 705, "sub_y": 1200,
+ "subs": [[0.89, 2.89, "Left the Phoenix at your place"], [3.61, 5.03, "Let's go."],
+          [5.75, 10.0, "Okay, there's some cash in the back, you can take it for your trouble,"],
+          [10.0, 10.9, "and you should..."], [10.9, 12.45, "Wait, what did he say?"],
+          [16.54, 17.45, "Right."], [18.58, 19.46, "What is that?"], [19.74, 21.86, "And you should..."],
+          [22.42, 24.8, "go to the store or something to get a change of clothes"],
+          [25.0, 26.4, "so the cops aren't all over you."], [26.45, 26.9, "True."]],
+ "punches": [10.9, 26.45],
+ "texts": [[0.0, 3.2, [["in GTA 6 the cops", 64, 150, [255,255,255]], ["REMEMBER YOUR", 96, 260, [255,60,70]], ["OUTFIT", 130, 380, [255,60,70]]]],
+           [10.9, 12.5, [["WAIT... WHAT?", 120, 330, [255,214,60]]]],
+           [22.4, 27.1, [["NEW FIT =", 76, 1730, [255,255,255]], ["COPS LOSE YOU", 100, 1830, [255,60,70]]]]]
+}
